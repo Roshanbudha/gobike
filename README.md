@@ -1,6 +1,6 @@
-# final_project
+# gobikes
 
-A new Flutter project.
+Try it to believe it.
 
 ## Getting Started
 
